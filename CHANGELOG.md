@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [Unreleased]
+## [0.0.4] - 2025-11-27
 
 ### Changed
 - Updated theme colors and token color tweaks in `themes/Tokyo Night City-color-theme.json`.
