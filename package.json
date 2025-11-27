@@ -2,8 +2,8 @@
   "name": "tokyo-night-city-vscode-theme",
   "displayName": "Tokyo Night City",
   "description": "A vibrant code theme for Visual Studio Code, inspired by the dazzling energy of Tokyo's nightlife. It combines the alluring neons of Tokyo Night with the cool, calming blues of City Lights, offering a unique and visually stimulating experience for your coding sessions",
-  "publisher" : "EmmanuelCy",
-  "version": "0.0.3",
+  "publisher": "EmmanuelCy",
+  "version": "0.0.4",
   "icon": "src/icon.png",
   "engines": {
     "vscode": "^1.88.0"
@@ -11,7 +11,7 @@
   "categories": [
     "Themes"
   ],
-  "keywords":[
+  "keywords": [
     "vscode",
     "theme",
     "dark",
