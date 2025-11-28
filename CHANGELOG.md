@@ -13,12 +13,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.0.5] - 2025-11-27
 ### Changed
-- Updated base theme colors and applied fine-tuning to token color scope settings in `themes/Tokyo Night City-color-theme.json`. - @Gitsack
+- Updated base theme colors and applied fine-tuning to token color scope settings in `themes/Tokyo Night City-color-theme.json`. - [@Gitsack]
 
 ### Thanks
-- Thanks to @Gitsack for the help and contribution 🎉
+- Thanks to [@Gitsack] for the help and contribution 🎉
 
----
+[@Gitsack]:https://github.com/Gitsack
 
 ## [0.0.4] - 2025-11-27
 ### Added
