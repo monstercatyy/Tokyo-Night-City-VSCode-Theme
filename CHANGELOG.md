@@ -13,7 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.0.5] - 2025-11-27
 ### Changed
-- Updated base theme colors and applied fine-tuning to token color scope settings in `themes/Tokyo Night City-color-theme.json`.
+- Updated base theme colors and applied fine-tuning to token color scope settings in `themes/Tokyo Night City-color-theme.json`. - @Gitsack
 
 ### Thanks
 - Thanks to @Gitsack for the help and contribution 🎉
@@ -22,7 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.0.4] - 2025-11-27
 ### Added
-- Implemented changes from an external contribution to the theme colors. See the repository for details: [monstercatyy/Tokyo-Night-City-VSCode-Theme](https://github.com/monstercatyy/Tokyo-Night-City-VSCode-Theme)
+- Implemented changes from an external contribution to the theme colors. [PR #1](https://github.com/monstercatyy/Tokyo-Night-City-VSCode-Theme/pull/1)
 
 ---
 
