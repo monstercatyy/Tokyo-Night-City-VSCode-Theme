@@ -44,7 +44,11 @@ Here are the main colors used in the Tokyo Night City theme and their hex values
 | Pink Coral | ![#f95d8a](https://via.placeholder.com/10/f95d8a?text=+) #f8f8f8 |
 | Cyan | ![#2aa198](https://via.placeholder.com/10/2aa198?text=+) #00b48a |
 
+## 🙏 Contributors
 
+A massive thank you to everyone who has contributed to the development of Tokyo Night City VS Code Theme!
+
+* [@Gitsack](https://github.com/Gitsack) - Initial color tweaks, scope updates, and general theme improvements. See the repository for details: [monstercatyy/Tokyo-Night-City-VSCode-Theme](https://github.com/monstercatyy/Tokyo-Night-City-VSCode-Theme)
 
 ## Contributing
 
